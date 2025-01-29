@@ -2,17 +2,23 @@ HTML (это HyperText Markup Language) - язык гипертекстовой 
 API (Application Programming Interface) - интерфейс
 
 
-<html> - 
+html - 
 
-<head> - 
+head - 
 
-<title> -
+title -
 
-<body> - 
+body - 
 
-<h1> - <h6> - 
+style - 
+    type=""
 
-<img> - 
+h1 - h6 - 
+
+img - 
     src = ""
 
-<p> - 
+p - 
+
+em - 
+
