@@ -1,3 +1,7 @@
+HTML (это HyperText Markup Language) - язык гипертекстовой разметки.
+API (Application Programming Interface) - интерфейс
+
+
 <html> - 
 
 <head> - 
