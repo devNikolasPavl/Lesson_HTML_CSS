@@ -34,4 +34,8 @@ td -
 
 th - 
 
+q - 
+
+blockquote - 
+
 
