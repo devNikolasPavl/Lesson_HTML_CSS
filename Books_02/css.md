@@ -45,3 +45,24 @@ background-image        - устанавливает фоновые рисунк
 background-repeat       - что бы фоновое изображение не повторялось
 background-position     - расположение фонового изображения (например, в верхнем левом углу)
 
+
+
+
+VIDEO_01
+
+!DOCTYPE html
+html                - 
+body                - 
+head                - 
+
+title               - 
+link                - 
+style               - 
+script              - 
+meta                - 
+
+h1-h6               - 
+div                 - 
+a                   - 
+img                 - 
+p                   - 
